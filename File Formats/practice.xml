@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<academy title ="Sparta Global Academy">
+
+<trainee>
+    <name>Salma Adan</name>
+    <age>22</age>
+    <dateborn>2000-07-19</dateborn>
+    <stream>Engineering</stream>
+    <course>Test Automation Engineer</course>
+    <location>London</location>
+</trainee>
+
+</academy>

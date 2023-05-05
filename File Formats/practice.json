@@ -1,0 +1,14 @@
+{
+    "firstName": "Salma",
+    "lastName": "Adan",
+    "age": "22",
+    "empty-string": "",
+    "isATrainee": true,
+    "phoneNumbers":["07912326743","07449755726"],
+    "address":{
+        "street":"4 Lea Terrace",
+        "city":"London",
+        "postcode":"SE3 9SR"
+    },
+    "middleName": null
+}

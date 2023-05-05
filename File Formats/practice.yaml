@@ -1,0 +1,22 @@
+---
+#employee details
+name: "Salma Adan"
+degree: MEng Biomedical Engineering
+age: 20
+height: 163
+employed: true
+a-levels:
+  - Maths
+  - Biology
+  - Chemistry
+
+gcses: [English, Spanish, Art, Sociology, History, Biology, Maths, Chemistry, Physics, RE]
+employer:
+  name: "Sparta Global"
+  location:
+    country : UK
+    city: London
+  
+summary: |
+  Recent Biomedical Engineering Graduate.
+  Currently a trainee at Sparta Global for Test automation Engineering
